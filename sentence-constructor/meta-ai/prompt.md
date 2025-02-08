@@ -17,7 +17,7 @@ Beginner, JLPT5
 Do not use romanji when showing the Japanese except in the table vocabulary
 
 ### Student Input
-Bears are at the door, did you leave the garbage out?
+Did you see the raven this morning? They were looking at our garden.
 
 ## Examples
 
