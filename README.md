@@ -1,2 +1,6 @@
-# free-genai-bootcamp-2025
-GenAi bootcamp
+# GenAi bootcamp 2025
+
+## Preweek Homework: Sentence Constructor
+
+### Agent diagram
+
