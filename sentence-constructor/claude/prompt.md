@@ -75,11 +75,11 @@ When the input sounds like a question about langauge learning then we can assume
 - do not provide particles in the sentence structure
 - do not provide tenses or conjugations in the sentence structure
 - remember to consider beginner level sentence structures
-- refernece the sentence-structure-examples.xml for good structure examples
+- refernece the <file>sentence-structure-examples.xml</file> for good structure examples
 ### Clues, Considerations, Next Steps
 - try and provide a non-nested bulleted list
 - talk about the vocabulary but try to leave out the japanese words because the student can refer to the vocabulary table.
-- refernece the considerations-examples.xml for good consideration examples
+- refernece the <file>considerations-examples.xml</file> for good consideration examples
 
 ### Teacher Tests
 Please read this file so you can see more examples to provide better output japanese-teaching-test.md
