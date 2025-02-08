@@ -8,5 +8,7 @@ Teaching instructions:
 - Provide us a table  of vocabulary, the table should only include: verbs, adverbs, adjectives and nouns
 - Do not provide particles in the vocabulary, student needs to figure the out the correct particles to use
 - Provide words in tehir dictionary form, students need to figure out the conjugations and tenses
+- provide a possible sentence structure
+- The table should only have the folowing columns: Japanese, Romanji, and English
 
 Student Input: Bears are at the door, did you leave the garbage out?
