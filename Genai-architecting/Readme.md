@@ -1,7 +1,9 @@
 ## PreWeek GenAi Architecting
 
 ### Conceptual Diagram for a GenAI LLM
-![Alt Text](https://github.com/YourUsername/YourRepositoryName/blob/main/path/to/your/image.png)
+![Genai-architecture](https://github.com/FuniLfuni/free-genai-bootcamp-2025/blob/main/Genai-architecting/images/genaiarchitecture.png)
 
 
-## Functional Requirements
+### Agent flow
+![Agent flow diagram](https://github.com/FuniLfuni/free-genai-bootcamp-2025/blob/main/Genai-architecting/images/agent-flow.png)
+
